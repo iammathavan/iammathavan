@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mathavan</h1>
-<h3 align="center">Computer Science Student</h3>
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iammathavan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
